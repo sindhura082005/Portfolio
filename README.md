@@ -62,7 +62,7 @@ This repository serves as proof of:
 
 ## 🔗 Repository Link
 
-[Add your repository link here]
+https://github.com/sindhura082005/Portfolio
 
 ---
 
